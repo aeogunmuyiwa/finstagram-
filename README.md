@@ -1,1 +1,2 @@
-# finstagram.github.io
+# finstagram
+tutorial for lighthouse labs web fundamentals
